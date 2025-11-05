@@ -40,6 +40,7 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 ![Video Walkthrough](https://i.imgur.com/836mNC1.gif)
+https://i.imgur.com/836mNC1.gif
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
